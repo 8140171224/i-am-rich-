@@ -11,8 +11,7 @@ void main() {
         ),
         body: Center(
           child: Image(
-            image: NetworkImage(
-                'https://img2.wikia.nocookie.net/__cb20120612022936/marvelcinematicuniverse/images/8/8e/324.jpg'),
+            image: AssetImage('images/Diamond.png'),
           ),
         ),
       ),
