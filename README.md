@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+![](https://github.com/8140171224/i-am-rich-/blob/master/images/Diamond.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
